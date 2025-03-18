@@ -1,4 +1,4 @@
-#Autoclicker v1.0
+# Autoclicker v1.0
 An easy-to-use Windows-based autoclicker that automates mouse clicks at user-defined intervals. Personal, non-commercial use only. Resale or distribution for profit is strictly prohibited.
 
 🚀 Overview
